@@ -10,7 +10,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 2. Chooi Keen Yu
 3. Wong Wei Keng
 4. Sia Sim Eng
-5. 
+
 #### Objective 
 
 to be fill 

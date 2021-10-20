@@ -1,3 +1,4 @@
+![Logo](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/f8f62afc79e63375095f29e7a2cc00fe413a946c/Logo_company.jpeg)
 # Sentiment Analysis in Business
 by The Insight Sdn.Bhd.
 

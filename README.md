@@ -1,4 +1,4 @@
-![Logo](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/f8f62afc79e63375095f29e7a2cc00fe413a946c/Logo_company.jpeg)
+![Logo](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/Logo_company.jpeg)
 # Sentiment Analysis in Business
 by The Insight Sdn.Bhd.
 
@@ -22,8 +22,15 @@ To .....
 ## 2. PROJECT PLANNING 
 
 #### Project Management Life-Cycle
-![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/463f13fd9329fde38948804c8620b46a5a2d3c6c/ganttchart.JPG)
-#####                                   Figure 1: Gantt Chart 
+![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
+<p align="center">Figure 1: Gantt Chart </p>
+
+#### Responsibility Assignment Matrices (RAM)
+
+![RAM](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/RAM.JPG)
+<p align="center">Figure 2: Responsibility Assignment Matrices </p>
+
+
 ## 3. PROJECT IMPLEMENTATION 
 
 ## 4. PROJECT EXECUTION 

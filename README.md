@@ -13,11 +13,11 @@ In this sentiment analysis project, we need to identify the scope of the project
 4. Sia Sim Eng
 
 #### Project objective
-To 
+To...
 
-To
+To....
 
-To 
+To .....
 
 ## 2. PROJECT PLANNING 
 

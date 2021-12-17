@@ -12,6 +12,8 @@ In this sentiment analysis project, we need to identify the scope of the project
 3. Wong Wei Keng
 4. Sia Sim Eng
 
+#### Project objective
+
 
 ## 2. PROJECT PLANNING 
 

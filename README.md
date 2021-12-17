@@ -13,7 +13,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 4. Sia Sim Eng
 
 #### Project objective
-To...
+To...<-pending to add
 
 To....
 
@@ -29,6 +29,27 @@ To .....
 
 ![RAM](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/RAM.JPG)
 <p align="center">Figure 2: Responsibility Assignment Matrices </p>
+
+| Team members | Roles |	Responsibility | 
+| --- | --- |---|
+| Lau Yong Zi         |   Project Manager     |  -> pending to add  |                  
+| Chooi Keen Yu       |   -> pending to add   |  -> pending to add  |  
+| Wong Wei Keng       |   -> pending to add   |  -> pending to add  |    
+| Sia Sim Eng         |   -> pending to add   |  -> pending to add  |    
+
+#### Risk Identification Chart (Quality, Cost, Time)
+
+| Control Element | What is likely to go wrong? |	How and when will I know? | What will I do about it? |
+| --- | --- |---|---|
+| Quality         |   -> pending to add   |  -> pending to add  |  -> pending to add  |                   
+| Cost            |   -> pending to add   |  -> pending to add  |  -> pending to add  |    
+| Time            |   -> pending to add   |  -> pending to add  |  -> pending to add  |    
+
+#### Project Planning Summary
+
+|Modules/Components (RM)  |	    Budget	        | Schedule	          | Responsibility      |
+| --- | --- |---|---|
+| -> pending to add       | -> pending to add   |  -> pending to add  |  -> pending to add  |   
 
 
 ## 3. PROJECT IMPLEMENTATION 

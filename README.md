@@ -14,7 +14,9 @@ In this sentiment analysis project, we need to identify the scope of the project
 
 #### Project objective
 To 
+
 To
+
 To 
 
 ## 2. PROJECT PLANNING 

@@ -21,6 +21,9 @@ To .....
 
 ## 2. PROJECT PLANNING 
 
+#### Project Management Life-Cycle
+![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/463f13fd9329fde38948804c8620b46a5a2d3c6c/ganttchart.JPG)
+#####                                   Figure 1: Gantt Chart 
 ## 3. PROJECT IMPLEMENTATION 
 
 ## 4. PROJECT EXECUTION 

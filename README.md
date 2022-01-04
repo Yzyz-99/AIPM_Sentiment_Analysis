@@ -54,10 +54,49 @@ To .....
 
 
 ## C. IMPLEMENTING THE PROJECT PLAN
+#### Deliverables:
+-->
 
+-->
+
+-->
+#### Tasks and Estimated Costs
+| Task  |  Estimated Costs |  Notes |
+| --- | --- |---|
+| -> pending to add       | -> pending to add   |  -> pending to add  | 
+
+#### Milestone Chart
+| Milestone |  Scheduled Completion |  	Actual Completion |
+| --- | --- |---|
+| Initiation     | -> pending to add   |  -> pending to add  | 
+| Planing        | -> pending to add   |  -> pending to add  | 
+| Design         | -> pending to add   |  -> pending to add  | 
+| Implementation | -> pending to add   |  -> pending to add  | 
+| Closure        | -> pending to add   |  -> pending to add  | 
+
+	
 ## D. EXECUTING THE PROJECT
+#### Project Design and coding
+--> insert diagram 
 
 ## E. COMPLETING THE PROJECT
+#### Closing Checklist
+
+ i. Acceptance/Project Completion Form Sign-Off 
+ 
+ --> (insert FORM)
+ 
+ ii. Lessons Learned Document 
+ 
+ -->(insert DOC)
+ 
+ iii. INSERT Final Project Report 
+ 
+ -->(insert REPORT)
+ 
+ iv. Close Contract 
+ 
+ -->(insert CONTRACT)
 
 ## F. PROJECT PRESENTATION
 

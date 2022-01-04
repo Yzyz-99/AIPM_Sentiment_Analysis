@@ -1,11 +1,12 @@
 ![Logo](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/Logo_company.jpeg)
-# Sentiment Analysis in Business
-by The Insight Sdn.Bhd.
 
-## 1. PROJECT DEFINITION 
+# PROJECT OVERVIEW
+## A. DEFINING THE PROJECT
+
 #### **Project Summary**
 In this sentiment analysis project, we need to identify the scope of the project. This system can be used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers. This is system will only accept the text which is in English. Therefore, countries or companies that do not use English as their primary language cannot use this system.
-
+#### Customer : AirAsia 
+#### Project name: Sentiment Analysis in Business
 #### Team Members 
 1. Lau Yong Zi
 2. Chooi Keen Yu
@@ -19,7 +20,7 @@ To....
 
 To .....
 
-## 2. PROJECT PLANNING 
+## B. PLANNING THE PROJECT
 
 #### Project Management Life-Cycle
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
@@ -52,11 +53,11 @@ To .....
 | -> pending to add       | -> pending to add   |  -> pending to add  |  -> pending to add  |   
 
 
-## 3. PROJECT IMPLEMENTATION 
+## C. IMPLEMENTING THE PROJECT PLAN
 
-## 4. PROJECT EXECUTION 
+## D. EXECUTING THE PROJECT
 
-## 5. PROJECT CLOSING
+## E. COMPLETING THE PROJECT
 
-## 6. PROJECT PRESENTATION
+## F. PROJECT PRESENTATION
 

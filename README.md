@@ -13,7 +13,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 2. Wong Wei Keng (B031910295)
 3. Sia Sim Eng   (B031910446)
 
-#### Project objective
+#### Project objectives
 - To develop an AI web-based application system that are able to analyze the business sentiment based on the reddit url
 
 - To classify the comments as positive or negative using VADER based on the sentiment score

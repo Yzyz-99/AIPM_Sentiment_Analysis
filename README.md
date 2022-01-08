@@ -23,10 +23,11 @@ In this sentiment analysis project, we need to identify the scope of the project
 ## B. PLANNING THE PROJECT
 
 #### Project Management Life-Cycle
+The project management life cycle is represented and documented in the form of Gantt Chart which we divide our project into manageable stages with each phases listed that combine our project idea into a working syste.<br>
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
 <p align="center">Figure 1: Gantt Chart </p>
 
-#### WBS is constructed to make the works more organizable 
+#### WBS is constructed to make the works more organizable as listed below. It used to breakdown the technical part of the project into several modules such as Project Conception & Initiation, Project Definition & Planning, Project Launch & Execution, Project Monitoring and Project Closure.
 ![WBS](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/WBS.png)
 <p align="center">Figure 2: WBS </p>
 
@@ -95,11 +96,11 @@ In this sentiment analysis project, we need to identify the scope of the project
 
  i. Acceptance/Project Completion Form Sign-Off 
  
- ![Project Completion Form](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG)
+ --> (insert FORM)
  
  ii. Lessons Learned Document 
  
-![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
+ -->(insert DOC)
  
  iii. INSERT Final Project Report 
  

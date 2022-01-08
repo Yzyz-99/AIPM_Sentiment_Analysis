@@ -18,7 +18,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 
 - To classify the comments as positive or negative using VADER based on the sentiment score
 
-- To .....
+- To implement and compare the algorithm for automatic classification of text into positive and negative 
 
 ## B. PLANNING THE PROJECT
 

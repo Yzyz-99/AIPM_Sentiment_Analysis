@@ -63,8 +63,9 @@ It used to breakdown the technical part of the project into several modules such
 
 |Modules/Components (RM)  |	    Budget	        | Schedule	          | Responsibility      |
 | --- | --- |---|---|
-| -> pending to add       | -> pending to add   |  -> pending to add  |  -> pending to add  |   
-
+| Data Acquisition       | RM10000   |  20/10/2021 - 10/11/2021  |  Wong Wei Keng  |   
+| Model Building     | RM25000   |  15/11/2021 - 15/12/2021  |  Chooi Keen Yu  |  
+| Web Interface System     | RM30000   |  16/12/2021 - 10/1/2022  |  Lau Yong Zi, Sia Sim Eng  |  
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 #### Deliverables:

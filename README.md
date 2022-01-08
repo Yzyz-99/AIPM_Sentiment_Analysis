@@ -26,10 +26,14 @@ To .....
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
 <p align="center">Figure 1: Gantt Chart </p>
 
+#### WBS
+![WBS](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/WBS.png)
+<p align="center">Figure 2: WBS </p>
+
 #### Responsibility Assignment Matrices (RAM)
 
 ![RAM](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/RAM.JPG)
-<p align="center">Figure 2: Responsibility Assignment Matrices </p>
+<p align="center">Figure 3: Responsibility Assignment Matrices </p>
 
 | Team members | Roles |	Responsibility | 
 | :---: | :---: |---|

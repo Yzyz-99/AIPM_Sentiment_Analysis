@@ -7,11 +7,11 @@
 In this sentiment analysis project, we need to identify the scope of the project. This system can be used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers. This is system will only accept the text which is in English. Therefore, countries or companies that do not use English as their primary language cannot use this system.
 #### Customer : AirAsia 
 #### Project name: Sentiment Analysis in Business
+#### Project Manager: Lau Yong Zi (B031910376)
 #### Team Members 
-1. Lau Yong Zi
-2. Chooi Keen Yu
-3. Wong Wei Keng
-4. Sia Sim Eng
+1. Chooi Keen Yu (B031910335)
+2. Wong Wei Keng (B031910295)
+3. Sia Sim Eng   (B031910446)
 
 #### Project objective
 To...<-pending to add

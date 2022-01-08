@@ -27,7 +27,8 @@ The project management life cycle is represented and documented in the form of G
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
 <p align="center">Figure 1: Gantt Chart </p>
 
-#### WBS is constructed to make the works more organizable as listed below. It used to breakdown the technical part of the project into several modules such as Project Conception & Initiation, Project Definition & Planning, Project Launch & Execution, Project Monitoring and Project Closure.
+#### WBS is constructed to make the works more organizable as listed below. 
+It used to breakdown the technical part of the project into several modules such as Project Conception & Initiation, Project Definition & Planning, Project Launch & Execution, Project Monitoring and Project Closure.
 ![WBS](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/WBS.png)
 <p align="center">Figure 2: WBS </p>
 

@@ -23,7 +23,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 ## B. PLANNING THE PROJECT
 
 #### Project Management Life-Cycle
-The project management life cycle is represented and documented in the form of Gantt Chart which we divide our project into manageable stages with each phases listed that combine our project idea into a working syste.<br>
+The project management life cycle is represented and documented in the form of Gantt Chart which we divide our project into manageable stages with each phases listed that combine our project idea into a working syste.<br>  
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
 <p align="center">Figure 1: Gantt Chart </p>
 
@@ -48,8 +48,8 @@ It used to breakdown the technical part of the project into several modules such
 || Project Scheduler | -> pending to add   |
 || Operation Manager | -> pending to add   |
 | Sia Sim Eng         | Technical Manager | a. Maintenance software and hardware.<br><br >b. Collect user feedback and upgrade the system. | 
-|| Implementation Manager | -> pending to add   |
-|| Test Manager | -> pending to add   |
+|| Implementation Manager | a. Coordinate with the team to implement the system and solutions in support of organizational objectives. <br><br> b. Ensure that the implementation are completed on time, within budget and meet client expectations.<br><br> c. Monitor and evaluate all process to ensure the team meets the objectives |
+|| Test Manager | a. Quality & test advocacy.<br><br> b.Resource planning & management for testing.<br><br> c. Applying the appropriate test methods in the system and managing the test effort for any given engagement|
 
 #### Risk Identification Chart (Quality, Cost, Time)
 

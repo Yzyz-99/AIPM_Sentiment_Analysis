@@ -46,10 +46,10 @@ It used to breakdown the technical part of the project into several modules such
 || Quality Manager | a. Quality process control.<br><br> b. Raw materials quality checking.<br><br>c. Reporting quality issue to management |
 | Wong Wei Keng       | Risk Manager | a. Identify and analysis project risk.<br><br> b. Feedback risk status to management<br><br> c. Risk management control and contingency plan. |
 || Project Scheduler | -> pending to add   |
-|| Operation Manager | -> pending to add   |
+|| Operation Manager | a. Manage quality assurance programs and improve the performance of overall process.<br><br> b. Maintaining and increasing the efficiency of business.<br><br> c. Develop, implement, and review operational policies and procedures.|
 | Sia Sim Eng         | Technical Manager | a. Maintenance software and hardware.<br><br >b. Collect user feedback and upgrade the system. | 
-|| Implementation Manager | a. Coordinate with the team to implement the system and solutions in support of organizational objectives. <br><br> b. Ensure that the implementation are completed on time, within budget and meet client expectations.<br><br> c. Monitor and evaluate all process to ensure the team meets the objectives |
-|| Test Manager | a. Quality & test advocacy.<br><br> b.Resource planning & management for testing.<br><br> c. Applying the appropriate test methods in the system and managing the test effort for any given engagement|
+|| Implementation Manager | a. Coordinate with the team to implement the system and solutions in support of organizational objectives. <br><br> b. Ensure that the implementation are completed on time, within budget and meet client expectations.<br><br> c. Monitor and evaluate all process to ensure the team meets the objectives. |
+|| Test Manager | a. Quality & test advocacy.<br><br> b. Resource planning & management for testing.<br><br> c. Applying the appropriate test methods in the system and managing the test effort for any given engagement.|
 
 #### Risk Identification Chart (Quality, Cost, Time)
 

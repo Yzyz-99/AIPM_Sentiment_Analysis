@@ -41,11 +41,11 @@ It used to breakdown the technical part of the project into several modules such
 | :---: | :---: |---|
 | Lau Yong Zi         |   Project Manager     | a. In charge of project planning, execution, monitoring, control, and closure.<br><br>b. Responsible for the overall project scope, team, and resources, as well as the project's success or failure. |         
 || Stakeholder Coordinator | a. Maintain up-to-date stakeholder records that reflect the most recent contact and engagement activity.<br><br>b. Research, create, and manage a database of speaking and event possibilities, and make appropriate recommendations to project team members. |    
-| Chooi Keen Yu       | Financial Analysts | a. Perform financial forecasting, reporting, and operational metrics tracking.<br><br>b. Record financial performance and analyzing financial data  |  
-|| Procurement Manager | a. Estimate budget for purchasing tools and requirement<br><br> b. Maintain good relationship with vendors / suppliers.<br><br> c. Record important data such as billing, receipt and pricing |
-|| Quality Manager | a. Quality process control.<br><br> b. Raw materials quality checking.<br><br>c. Reporting quality issue to management |
-| Wong Wei Keng       | Risk Manager | a. Identify and analysis project risk.<br><br> b. Feedback risk status to management<br><br> c. Risk management control and contingency plan. |
-|| Project Scheduler | -> pending to add   |
+| Chooi Keen Yu       | Financial Analysts | a. Perform financial forecasting, reporting, and operational metrics tracking.<br><br>b. Record financial performance and analyzing financial data.  |  
+|| Procurement Manager | a. Estimate budget for purchasing tools and requirement.<br><br> b. Maintain good relationship with vendors / suppliers.<br><br> c. Record important data such as billing, receipt and pricing. |
+|| Quality Manager | a. Quality process control.<br><br> b. Raw materials quality checking.<br><br>c. Reporting quality issue to management. |
+| Wong Wei Keng       | Risk Manager | a. Identify and analysis project risk.<br><br> b. Feedback risk status to management.<br><br> c. Risk management control and contingency plan. |
+|| Project Scheduler | a. Develop and manage schedules for projects.<br><br> b. Assist project managers with schedule planning, coordinate tasks, and monitor the timelines of scheduled tasks.<br><br> c. Identify potential scheduling delays and actions to be taken. |
 || Operation Manager | a. Manage quality assurance programs and improve the performance of overall process.<br><br> b. Maintaining and increasing the efficiency of business.<br><br> c. Develop, implement, and review operational policies and procedures.|
 | Sia Sim Eng         | Technical Manager | a. Maintenance software and hardware.<br><br >b. Collect user feedback and upgrade the system. | 
 || Implementation Manager | a. Coordinate with the team to implement the system and solutions in support of organizational objectives. <br><br> b. Ensure that the implementation are completed on time, within budget and meet client expectations.<br><br> c. Monitor and evaluate all process to ensure the team meets the objectives. |

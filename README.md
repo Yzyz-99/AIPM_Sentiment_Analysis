@@ -14,11 +14,11 @@ In this sentiment analysis project, we need to identify the scope of the project
 3. Sia Sim Eng   (B031910446)
 
 #### Project objective
-To...<-pending to add
+- To develop an AI web-based application system that are able to analyze the business sentiment based on the reddit url
 
-To....
+- To classify the comments as positive or negative using VADER based on the sentiment score
 
-To .....
+- To .....
 
 ## B. PLANNING THE PROJECT
 
@@ -26,7 +26,7 @@ To .....
 ![ganttchart](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/ganttchart.JPG)
 <p align="center">Figure 1: Gantt Chart </p>
 
-#### WBS
+#### WBS is constructed to make the works more organizable 
 ![WBS](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/WBS.png)
 <p align="center">Figure 2: WBS </p>
 

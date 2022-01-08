@@ -95,11 +95,11 @@ In this sentiment analysis project, we need to identify the scope of the project
 
  i. Acceptance/Project Completion Form Sign-Off 
  
- --> (insert FORM)
+ ![Project Completion Form](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG)
  
  ii. Lessons Learned Document 
  
- -->(insert DOC)
+![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
  
  iii. INSERT Final Project Report 
  

@@ -123,10 +123,19 @@ As a result, this system able to anlayse the input based on Reddit URL and able 
 In general, this application allows company to analyse their customer feedback on their products. This approach is an efficient way to help company to know about the trend of their product as they can view the percentage of positive and negative comments. The negative comments may mean the weakness of the product as positive comments means the strength of the product. They can also view the comments by giving them a better understanding of their product’s strength and weakness. 
 
 ##### Original and Actual Schedule 
---> pending to add
+The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
 ##### Original and Actual Budget
---> pending to add
+The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
+
+| Task  |  Estimated Costs |  Notes |
+| --- | --- |---|
+| Project Management    | RM 119,350  |  project manager,project team members, contactors , research  |
+| Hardware   | RM 43,000  |  laptop, server |
+| Software  | RM 42,000  |  licensed software, software development ,software defects ,cloud server  |
+| Testing  | RM 64,900  |  online course, project team mambers  |
+| Reserves  | RM 55,500 |   |
+
 
 ##### Transition Plan
 The Insight Sdn.Bhd staff will provide fully support when require. The main work of support provided by The Insight Sdn.Bhd on the Sentimental Analysis in Business system are shown below: 

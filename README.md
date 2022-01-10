@@ -110,7 +110,7 @@ It used to breakdown the technical part of the project into several modules such
  
  iv. Close Contract 
  
- -->(insert CONTRACT)
+ ![Close_Contract](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/3c90a4269834b3a265a5a66655fffe6a7b75c7f4/images/close%20contract.JPG)
 
 ## F. PROJECT PRESENTATION
 

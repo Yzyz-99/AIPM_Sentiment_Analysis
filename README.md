@@ -69,11 +69,13 @@ It used to breakdown the technical part of the project into several modules such
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 #### Deliverables:
--->
-
--->
-
--->
+- WBS Structure
+- Gantt Chart
+- Cost Estimation
+- Procurement Management Plan
+- Communication Management Plan
+- Project Closing Report
+- Fully Completed System
 #### Tasks and Estimated Costs
 | Task  |  Estimated Costs |  Notes |
 | --- | --- |---|
@@ -82,11 +84,11 @@ It used to breakdown the technical part of the project into several modules such
 #### Milestone Chart
 | Milestone |  Scheduled Completion |  	Actual Completion |
 | --- | --- |---|
-| Initiation     | -> pending to add   |  -> pending to add  | 
-| Planing        | -> pending to add   |  -> pending to add  | 
-| Design         | -> pending to add   |  -> pending to add  | 
-| Implementation | -> pending to add   |  -> pending to add  | 
-| Closure        | -> pending to add   |  -> pending to add  | 
+| Initiation     |22-10-2021   |22-10-2021  | 
+| Planing        |12-11-2021   |11-11-2021  | 
+| Design         |3-12-2021    |1-12-2021   | 
+| Implementation |17-12-2021   |17-12-2021  | 
+| Closure        |27-12-2021   |30-12-2021  | 
 
 	
 ## D. EXECUTING THE PROJECT

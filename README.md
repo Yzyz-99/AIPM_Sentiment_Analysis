@@ -79,7 +79,12 @@ It used to breakdown the technical part of the project into several modules such
 #### Tasks and Estimated Costs
 | Task  |  Estimated Costs |  Notes |
 | --- | --- |---|
-| -> pending to add       | -> pending to add   |  -> pending to add  | 
+| Project Management    | RM 119,350  |  project manager,project team members, contactors , research  |
+| Hardware   | RM 43,000  |  laptop, server |
+| Software  | RM 42,000  |  licensed software, software development ,software defects ,cloud server  |
+| Testing  | RM 64,900  |  online course, project team mambers  |
+| Reserves  | RM 55,500 |   |
+
 
 #### Milestone Chart
 | Milestone |  Scheduled Completion |  	Actual Completion |

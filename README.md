@@ -102,7 +102,7 @@ It used to breakdown the technical part of the project into several modules such
 --> insert diagram 
 
 ## E. COMPLETING THE PROJECT
-#### Closing Checklist
+### Closing Checklist
 
  i. Acceptance/Project Completion Form Sign-Off 
  
@@ -114,19 +114,19 @@ It used to breakdown the technical part of the project into several modules such
  
  iii. Final Project Report 
  
-##### 1.0 Project Objective
+### 1.0 Project Objective
 - To develop an AI web-based application system that are able to analyze the business sentiment based on the reddit URL. 
 - To classify the comments as positive or negative using VADER based on the sentiment score. 
 - To implement and compare the algorithm for automatic classification of text into positive and negative. 
 
-##### 2.0 Summary of Project Result 
+### 2.0 Summary of Project Result 
 As a result, this system able to anlayse the input based on Reddit URL and able to provide the negative and positive analysis on the particular URL.  
 In general, this application allows company to analyse their customer feedback on their products. This approach is an efficient way to help company to know about the trend of their product as they can view the percentage of positive and negative comments. The negative comments may mean the weakness of the product as positive comments means the strength of the product. They can also view the comments by giving them a better understanding of their product’s strength and weakness. 
 
-##### 3.0 Original and Actual Schedule 
+### 3.0 Original and Actual Schedule 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
-##### 4.0 Original and Actual Budget
+### 4.0 Original and Actual Budget
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
 | Task  |  Estimated Costs |  Notes |
@@ -137,15 +137,15 @@ The actual budget matches the original budget, which means that the team has fol
 | Testing  | RM 64,900  |  online course, project team mambers  |
 | Reserves  | RM 55,500 |   |
 
-##### 4.1 Cost Estimation
+### 4.1 Cost Estimation
 ![Costestimation](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/costestimate.JPG)
 
 ![Costestimation1](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/actualbudget.JPG)
 
-##### 4.2 NPV Value 
+### 4.2 NPV Value 
 ![NPV](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/NPV%20value.JPG)
 
-##### Transition Plan
+### 5.0 Transition Plan
 The Insight Sdn.Bhd staff will provide fully support when require. The main work of support provided by The Insight Sdn.Bhd on the Sentimental Analysis in Business system are shown below: 
 
 i)   Maintain the system

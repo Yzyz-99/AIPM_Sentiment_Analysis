@@ -98,6 +98,7 @@ It used to breakdown the technical part of the project into several modules such
 	
 ## D. EXECUTING THE PROJECT
 #### Project Design and coding
+
 --> insert diagram 
 
 ## E. COMPLETING THE PROJECT

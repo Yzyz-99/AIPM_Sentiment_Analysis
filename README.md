@@ -112,7 +112,7 @@ It used to breakdown the technical part of the project into several modules such
  
  ![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
  
- iii. INSERT Final Project Report 
+ iii. Final Project Report 
  
 ##### 1.0 Project Objective
 - To develop an AI web-based application system that are able to analyze the business sentiment based on the reddit URL. 

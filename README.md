@@ -51,6 +51,8 @@ It used to breakdown the technical part of the project into several modules such
 || Implementation Manager | a. Coordinate with the team to implement the system and solutions in support of organizational objectives. <br><br> b. Ensure that the implementation are completed on time, within budget and meet client expectations.<br><br> c. Monitor and evaluate all process to ensure the team meets the objectives. |
 || Test Manager | a. Quality & test advocacy.<br><br> b. Resource planning & management for testing.<br><br> c. Applying the appropriate test methods in the system and managing the test effort for any given engagement.|
 
+<p align="center">Table 1: Roles and Responsibility </p>
+
 #### Risk Identification Chart (Quality, Cost, Time)
 
 | Control Element | What is likely to go wrong? |	How and when will I know? | What will I do about it? |
@@ -59,6 +61,8 @@ It used to breakdown the technical part of the project into several modules such
 | Cost | 1. High usage of Internet and high bandwidth is required.<br><br>2. The project cost reaches the budget limit | How: Website is loaded is slow speed<br><br>When: The problem will be encountered when we are doing web scraping. | Discuss with the stakeholders about the usage of internet to upgrade the bandwidth. |    
 | Time | 1. Project not able to reach the milestone set as described in the Gantt Chart.<br><br>2. Time consuming to collect the data. | How: The members are stuck with a certain problem and drag all the other team members<br><br>When: The problem will be encountered during the project execution and monitoring phase. | Ask for the help from other members to solve the problem or switch job with another member in the team. |    
 
+<p align="center">Table 2: Risk Identification Chart (Quality, Cost, Time) </p>
+
 #### Project Planning Summary
 
 |Modules/Components (RM)  |	    Budget	        | Schedule	          | Responsibility      |
@@ -66,6 +70,8 @@ It used to breakdown the technical part of the project into several modules such
 | Data Acquisition       | RM10000   |  20/10/2021 - 10/11/2021  |  Wong Wei Keng  |   
 | Model Building     | RM25000   |  15/11/2021 - 15/12/2021  |  Chooi Keen Yu  |  
 | Web Interface System     | RM30000   |  16/12/2021 - 10/1/2022  |  Lau Yong Zi, Sia Sim Eng  |  
+
+<p align="center">Table 3: Project Planning Summary</p>
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 #### Deliverables:
@@ -85,6 +91,7 @@ It used to breakdown the technical part of the project into several modules such
 | Testing  | RM 64,900  |  online course, project team mambers  |
 | Reserves  | RM 55,500 |   |
 
+<p align="center">Table 4: Tasks and Estimated Costs</p>
 
 #### Milestone Chart
 | Milestone |  Scheduled Completion |  	Actual Completion |
@@ -95,11 +102,38 @@ It used to breakdown the technical part of the project into several modules such
 | Implementation |17-12-2021   |17-12-2021  | 
 | Closure        |27-12-2021   |30-12-2021  | 
 
+<p align="center">Table 5: Milestone Chart</p>
 	
 ## D. EXECUTING THE PROJECT
 #### Project Design and coding
 
---> insert diagram 
+![URLcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20comments%20from%20URL.jpg)
+<p align="center">Figure 4: Code snippet to load comments from URL</p>
+
+![Trainmodelcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20trained%20model.jpg)
+<p align="center">Figure 5: Code snippet to load trained model</p>
+
+![predictcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20for%20predict.jpg)
+<p align="center">Figure 6: Code snippet for predict</p>
+
+![sentimentprocesscode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20process_sentiment.png)
+<p align="center">Figure 7: Code snippet for process_sentiment</p>
+
+![classresultcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20class%20Result.jpg)
+<p align="center">Figure 8: Code snippet for class Result</p>
+
+![UI](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/User%20interface%20to%20enter%20website%20for%20reddit%20post.jpg)
+<p align="center">Figure 9: User interface to enter website for reddit post</p>
+
+![piechart](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Pie%20chart%20of%20the%20result.jpg)
+<p align="center">Figure 10: Pie chart of the result</p>
+
+![povcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Positive%20Comments%20of%20the%20post.jpg)
+<p align="center">Figure 11: Most Positive Comments of the post</p>
+
+![negcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Negative%20Comments%20of%20the%20post.jpg)
+<p align="center">Figure 12: Most Negative Comments of the post</p>
+
 
 ## E. COMPLETING THE PROJECT
 ### Closing Checklist
@@ -107,10 +141,12 @@ It used to breakdown the technical part of the project into several modules such
  i. Acceptance/Project Completion Form Sign-Off 
  
  ![Project Completion Form](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG)
- 
+ <p align="center">Figure 13: Acceptance/Project Completion Form Sign-Off </p>
+
  ii. Lessons Learned Document 
  
  ![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
+ <p align="center">Figure 14: Lessons Learned Document  </p>
  
  iii. Final Project Report 
  
@@ -137,13 +173,18 @@ The actual budget matches the original budget, which means that the team has fol
 | Testing  | RM 64,900  |  online course, project team mambers  |
 | Reserves  | RM 55,500 |   |
 
+<p align="center">Table 6: Original and Actual Budget</p>
+
 ### 4.1 Cost Estimation
 ![Costestimation](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/costestimate.JPG)
 
-![Costestimation1](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/actualbudget.JPG)
 
+![Costestimation1](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/actualbudget.JPG)
+ <p align="center">Figure 15: Cost Estimation  </p>
+ 
 ### 4.2 NPV Value 
 ![NPV](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/NPV%20value.JPG)
+ <p align="center">Figure 16: NPV Value   </p>
 
 ### 5.0 Transition Plan
 The Insight Sdn.Bhd staff will provide fully support when require. The main work of support provided by The Insight Sdn.Bhd on the Sentimental Analysis in Business system are shown below: 
@@ -159,6 +200,7 @@ iV)  Report information to senior management on monthly basis
  iv. Close Contract 
  
  ![Close_Contract](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/3c90a4269834b3a265a5a66655fffe6a7b75c7f4/images/close%20contract.JPG)
+  <p align="center">Figure 17:  Close Contract   </p>
 
 ## F. PROJECT PRESENTATION
 

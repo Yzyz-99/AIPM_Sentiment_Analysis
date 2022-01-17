@@ -34,7 +34,11 @@ It used to breakdown the technical part of the project into several modules such
 
 #### Responsibility Assignment Matrices (RAM)
 
-![RAM](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/RAM.JPG)
+
+<p align="center">
+  <img src="https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/RAM.JPG"/>
+</p>
+
 <p align="center">Figure 3: Responsibility Assignment Matrices </p>
 
 | Team members | Roles |	Responsibility | 
@@ -107,37 +111,59 @@ It used to breakdown the technical part of the project into several modules such
 ## D. EXECUTING THE PROJECT
 #### Project Design and coding
 
-![ArchitectureOfSystem](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/Architecture%20of%20system.png) 
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/Architecture%20of%20system.png"/>
+</p>
 <p align="center">Figure 4: Architecture of the system</p> <br> 
 
-![SentimentAnalysisStep-By-StepApproach](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/Sentiment%20Analysis%20Approach.png)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/main/images/Sentiment%20Analysis%20Approach.png"/>
+</p>
 <p align="center">Figure 5: Sentiment Analysis Step-by-step Approach</p> <br>  
 
-![URLcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20comments%20from%20URL.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20comments%20from%20URL.jpg"/>
+</p>
 <p align="center">Figure 6: Code snippet to load comments from URL</p> <br>  
 
-![Trainmodelcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20trained%20model.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20trained%20model.jpg"/>
+</p>
 <p align="center">Figure 7: Code snippet to load trained model</p> <br>  
 
-![predictcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20for%20predict.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20for%20predict.jpg"/>
+</p>
 <p align="center">Figure 8: Code snippet for predict</p> <br>  
 
-![sentimentprocesscode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20process_sentiment.png)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20process_sentiment.png"/>
+</p>
 <p align="center">Figure 9: Code snippet for process_sentiment</p> <br>  
 
-![classresultcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20class%20Result.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20class%20Result.jpg"/>
+</p>
 <p align="center">Figure 10: Code snippet for class Result</p> <br>  
 
-![UI](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/User%20interface%20to%20enter%20website%20for%20reddit%20post.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/User%20interface%20to%20enter%20website%20for%20reddit%20post.jpg"/>
+</p>
 <p align="center">Figure 11: User interface to enter website for reddit post</p> <br>  
 
-![piechart](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Pie%20chart%20of%20the%20result.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Pie%20chart%20of%20the%20result.jpg"/>
+</p>
 <p align="center">Figure 12: Pie chart of the result</p> <br>  
 
-![povcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Positive%20Comments%20of%20the%20post.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Positive%20Comments%20of%20the%20post.jpg"/>
+</p>
 <p align="center">Figure 13: Most Positive Comments of the post</p> <br>  
 
-![negcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Negative%20Comments%20of%20the%20post.jpg)
+<p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Negative%20Comments%20of%20the%20post.jpg"/>
+</p>
 <p align="center">Figure 14: Most Negative Comments of the post</p> <br>  
 
 

@@ -172,12 +172,16 @@ It used to breakdown the technical part of the project into several modules such
 
  i. Acceptance/Project Completion Form Sign-Off 
  
- ![Project Completion Form](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG)
+ <p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG"/>
+</p>
  <p align="center">Figure 15: Acceptance/Project Completion Form Sign-Off </p>
 
  ii. Lessons Learned Document 
  
- ![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
+  <p align="center">
+  <img src="https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG"/>
+</p>
  <p align="center">Figure 16: Lessons Learned Document  </p>
  
  iii. Final Project Report 

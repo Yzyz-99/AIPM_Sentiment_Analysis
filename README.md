@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Yzyz-99/AIPM_Sentiment_Analysis/blob/2e234e170de5ddc3e2a005ce018762ebdadc3e7c/images/Logo_company.jpeg)
 
-# PROJECT OVERVIEW
-## A. DEFINING THE PROJECT
+# :file_folder: PROJECT OVERVIEW
+## :pencil2: A. DEFINING THE PROJECT
 
 #### **Project Summary**
 In this sentiment analysis project, we need to identify the scope of the project. This system can be used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers. This is system will only accept the text which is in English. Therefore, countries or companies that do not use English as their primary language cannot use this system.
@@ -20,7 +20,7 @@ In this sentiment analysis project, we need to identify the scope of the project
 
 - To implement and compare the algorithm for automatic classification of text into positive and negative 
 
-## B. PLANNING THE PROJECT
+## :orange_book: B. PLANNING THE PROJECT
 
 #### Project Management Life-Cycle
 The project management life cycle is represented and documented in the form of Gantt Chart which we divide our project into manageable stages with each phases listed that combine our project idea into a working syste.<br>  
@@ -77,7 +77,7 @@ It used to breakdown the technical part of the project into several modules such
 
 <p align="center">Table 3: Project Planning Summary</p>
 
-## C. IMPLEMENTING THE PROJECT PLAN
+## :bar_chart: C. IMPLEMENTING THE PROJECT PLAN
 #### Deliverables:
 - WBS Structure
 - Gantt Chart
@@ -108,7 +108,7 @@ It used to breakdown the technical part of the project into several modules such
 
 <p align="center">Table 5: Milestone Chart</p>
 	
-## D. EXECUTING THE PROJECT
+## :computer: D. EXECUTING THE PROJECT
 #### Project Design and coding
 
 <p align="center">
@@ -167,7 +167,7 @@ It used to breakdown the technical part of the project into several modules such
 <p align="center">Figure 14: Most Negative Comments of the post</p> <br>  
 
 
-## E. COMPLETING THE PROJECT
+## :dart: E. COMPLETING THE PROJECT
 ### Closing Checklist
 
  i. Acceptance/Project Completion Form Sign-Off 
@@ -238,6 +238,6 @@ iV)  Report information to senior management on monthly basis
  ![Close_Contract](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/3c90a4269834b3a265a5a66655fffe6a7b75c7f4/images/close%20contract.JPG)
   <p align="center">Figure 19:  Close Contract   </p>
 
-## F. PROJECT PRESENTATION
+## :tv: F. PROJECT PRESENTATION
 
 --> insert video link

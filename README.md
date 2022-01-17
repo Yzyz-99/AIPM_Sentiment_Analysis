@@ -114,31 +114,31 @@ It used to breakdown the technical part of the project into several modules such
 <p align="center">Figure 5: Sentiment Analysis Step-by-step Approach</p>
 
 ![URLcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20comments%20from%20URL.jpg)
-<p align="center">Figure 5: Code snippet to load comments from URL</p>
+<p align="center">Figure 6: Code snippet to load comments from URL</p>
 
 ![Trainmodelcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20to%20load%20trained%20model.jpg)
-<p align="center">Figure 6: Code snippet to load trained model</p>
+<p align="center">Figure 7: Code snippet to load trained model</p>
 
 ![predictcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20for%20predict.jpg)
-<p align="center">Figure 7: Code snippet for predict</p>
+<p align="center">Figure 8: Code snippet for predict</p>
 
 ![sentimentprocesscode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20process_sentiment.png)
-<p align="center">Figure 7: Code snippet for process_sentiment</p>
+<p align="center">Figure 9: Code snippet for process_sentiment</p>
 
 ![classresultcode](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Code%20snippet%20for%20class%20Result.jpg)
-<p align="center">Figure 8: Code snippet for class Result</p>
+<p align="center">Figure 10: Code snippet for class Result</p>
 
 ![UI](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/User%20interface%20to%20enter%20website%20for%20reddit%20post.jpg)
-<p align="center">Figure 9: User interface to enter website for reddit post</p>
+<p align="center">Figure 11: User interface to enter website for reddit post</p>
 
 ![piechart](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Pie%20chart%20of%20the%20result.jpg)
-<p align="center">Figure 10: Pie chart of the result</p>
+<p align="center">Figure 12: Pie chart of the result</p>
 
 ![povcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Positive%20Comments%20of%20the%20post.jpg)
-<p align="center">Figure 11: Most Positive Comments of the post</p>
+<p align="center">Figure 13: Most Positive Comments of the post</p>
 
 ![negcomment](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/989c232dfa0e5d34a3fe3f3675a42673bf791aa9/images/Most%20Negative%20Comments%20of%20the%20post.jpg)
-<p align="center">Figure 12: Most Negative Comments of the post</p>
+<p align="center">Figure 14: Most Negative Comments of the post</p>
 
 
 ## E. COMPLETING THE PROJECT
@@ -147,12 +147,12 @@ It used to breakdown the technical part of the project into several modules such
  i. Acceptance/Project Completion Form Sign-Off 
  
  ![Project Completion Form](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Project%20Completion%20Form%20Sign-Off.JPG)
- <p align="center">Figure 13: Acceptance/Project Completion Form Sign-Off </p>
+ <p align="center">Figure 15: Acceptance/Project Completion Form Sign-Off </p>
 
  ii. Lessons Learned Document 
  
  ![Lessons Learned Document](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/9e3354a581f4edc239a526df7dbd1366b0e58179/images/Lessons%20Learned%20Document.JPG)
- <p align="center">Figure 14: Lessons Learned Document  </p>
+ <p align="center">Figure 16: Lessons Learned Document  </p>
  
  iii. Final Project Report 
  
@@ -186,11 +186,11 @@ The actual budget matches the original budget, which means that the team has fol
 
 
 ![Costestimation1](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/actualbudget.JPG)
- <p align="center">Figure 15: Cost Estimation  </p>
+ <p align="center">Figure 17: Cost Estimation  </p>
  
 ### 4.2 NPV Value 
 ![NPV](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/39a8cf1fcb2734b91d684084cb3d446ff3ea642d/images/NPV%20value.JPG)
- <p align="center">Figure 16: NPV Value   </p>
+ <p align="center">Figure 18: NPV Value   </p>
 
 ### 5.0 Transition Plan
 The Insight Sdn.Bhd staff will provide fully support when require. The main work of support provided by The Insight Sdn.Bhd on the Sentimental Analysis in Business system are shown below: 
@@ -206,7 +206,7 @@ iV)  Report information to senior management on monthly basis
  iv. Close Contract 
  
  ![Close_Contract](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/3c90a4269834b3a265a5a66655fffe6a7b75c7f4/images/close%20contract.JPG)
-  <p align="center">Figure 17:  Close Contract   </p>
+  <p align="center">Figure 19:  Close Contract   </p>
 
 ## F. PROJECT PRESENTATION
 

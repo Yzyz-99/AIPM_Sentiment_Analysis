@@ -58,7 +58,7 @@ It used to breakdown the technical part of the project into several modules such
 | Control Element | What is likely to go wrong? |	How and when will I know? | What will I do about it? |
 | :---: | --- |---|---|
 | Quality | The system cannot differentiate the positive or negative sentiment in text correctly. | How: The model has a bad performance which give us bad result.<br><br> When: The problem will be encountered when we train the model. | Tune the model parameters such as learning rate or train a more complex model. |                   
-| Cost | 1. High usage of Internet and high bandwidth is required.<br><br>2. The project cost reaches the budget limit | How: Website is loaded is slow speed<br><br>When: The problem will be encountered when we are doing web scraping. | Discuss with the stakeholders about the usage of internet to upgrade the bandwidth. |    
+| Cost | 1. High usage of Internet and high bandwidth is required.<br><br>2. The project cost reaches the budget limit | How: Website is loaded at a slow speed<br><br>When: The problem will be encountered when we are doing web scraping. | Discuss with the stakeholders about the usage of internet to upgrade the bandwidth. |    
 | Time | 1. Project not able to reach the milestone set as described in the Gantt Chart.<br><br>2. Time consuming to collect the data. | How: The members are stuck with a certain problem and drag all the other team members<br><br>When: The problem will be encountered during the project execution and monitoring phase. | Ask for the help from other members to solve the problem or switch job with another member in the team. |    
 
 <p align="center">Table 2: Risk Identification Chart (Quality, Cost, Time) </p>

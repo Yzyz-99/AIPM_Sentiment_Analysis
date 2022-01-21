@@ -240,3 +240,5 @@ iV)  Report information to senior management on monthly basis
 
 ## :tv: F. PROJECT PRESENTATION
 https://youtu.be/FjmwcfxppFM
+
+[![Watch the video](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/d194852cee46bc90bd9d2fe51ae42fe36f4e1b90/images/videocover.JPG)](https://youtu.be/FjmwcfxppFM)

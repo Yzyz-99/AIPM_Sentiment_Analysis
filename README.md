@@ -239,5 +239,4 @@ iV)  Report information to senior management on monthly basis
   <p align="center">Figure 19:  Close Contract   </p>
 
 ## :tv: F. PROJECT PRESENTATION
-
---> insert video link
+https://youtu.be/FjmwcfxppFM

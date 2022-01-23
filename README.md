@@ -242,3 +242,11 @@ iV)  Report information to senior management on monthly basis
 https://youtu.be/FjmwcfxppFM
 
 [![Watch the video](https://github.com/Yzyz-99/sentiment-analysis-in-business/blob/d194852cee46bc90bd9d2fe51ae42fe36f4e1b90/images/videocover.JPG)](https://youtu.be/FjmwcfxppFM)
+
+## Redditlytics
+
+[redditlytics.herokuapp.com](https://redditlytics.herokuapp.com/)
+
+
+## About this app
+Simply enter a Reddit post and gain an instant understanding of the overall sentiment of its comments. Provides a pie chart showing the proportion of positive and negative comments as well as the top (most positive and most negative) comments.
